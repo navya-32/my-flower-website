@@ -110,7 +110,7 @@ header #toggler {
     display: flex;
     align-items: center;
     min-height: 100vh;
-    background: url("/my-flower-website/home-bg.png") no-repeat;
+    background: url("./my-flower-website/home-bg.png") no-repeat;
     background-size: cover;
     background-position: center;
 }
